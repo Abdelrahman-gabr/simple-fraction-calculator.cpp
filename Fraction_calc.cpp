@@ -1,9 +1,6 @@
 // File:  CS112_A2_T2_S25&S26
-//section : 25 & 26
 // purpose : Fraction calculator
-//Name 1: Abdelrahman mohamed gabr  ID:20231098  part (Main menu appears to user , all errors handel , all regex pattern of input  )    email:gabrabdo908@gmail.com
-//Name 2: marawan mohamed badr      ID:20231157  part (all operations [+ , - , *, /], part of algorithm)            email: merobadr61@gmail.com
-//Name 3:mohamed gamal zenhom       ID:20230326  part (remaining part of algorithm, comments )                      email: mhmdj1353@gmail.com
+//Name 1: Abdelrahman mohamed gabr  ID:20231098    email:gabrabdo908@gmail.com
 
 /* Algorithm
  1.print welcome message and input message
